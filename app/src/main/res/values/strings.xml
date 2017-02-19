@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Distance Calculator</string>
+    <string name="from">From</string>
+    <string name="company">taxfix</string>
+    <string name="to">To</string>
+    <string name="address">Address</string>
+    <string name="calculate">Calculate</string>
+    <string name="distance">Distance</string>
+    <string name="about">About</string>
+    <string name="permissions_not_granted">Permissions not granted</string>
+    <string name="permision_available_location">Location permissions are now available!</string>
+    <string name="permissions_location_rationale">You need to approve location permissions in order to proceed</string>
+    <string name="ok">OK</string>
+    <string name="google_play_error">Google Play Services unavailable. This app will not work</string>
+    <string name="location_settings_unsatisfied">Location settings requirements not satisfied. Showing last known location if available.</string>
+    <string name="retry">Retry</string>
+    <string name="show_route">Show route</string>
+    <string name="route_fragment_name">Route</string>
+    <string name="save_btn">Save</string>
+    <string name="save_successful">Saved!</string>
+    <string name="trip_deleted">Trip info deleted</string>
+    <string name="saved_title">Saved</string>
+    <string name="by">By</string>
+    <string name="error_saving_trip">Error saving trip...</string>
+    <string name="deletion_confirm">Do you really want to delete this trip?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="check_addresses">Please provide correct and existing addresses</string>
+</resources>
